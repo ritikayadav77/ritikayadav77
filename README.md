@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hello, I'm Mayank</h1>
+<h1 align="center">👋 Hello, I'm Ritika</h1>
 <h3 align="center">Building Impactful Projects 🌍</h3>
 
 ---
 
 ## 🚀 About Me
 
-I’m a *BTech Data Science student*, passionate about creating impactful software and solving real-world problems.  
+I’m a *BTECH in artificial intelligence and machine learning*, passionate about creating impactful software and solving real-world problems.  
 I love building products, participating in hackathons, and sharing knowledge on YouTube.  
 
 
@@ -30,13 +30,13 @@ I love building products, participating in hackathons, and sharing knowledge on 
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-ry/)
+[![LinkedIn](https://www.linkedin.com/in/ritika-yadav-42420b382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=mayank-ry)
-![GitHub Streak](https://streak-stats.demolab.com/?user=mayank-ry)## Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=ritikayadav77)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ritikayadav77)## Hi there 👋
 
